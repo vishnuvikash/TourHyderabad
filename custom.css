@@ -1,0 +1,17 @@
+.thumbnail img:hover{
+	transform: scale(1.1);
+	
+}
+.thumbnail img{
+	transform: all 0.3s ease 0s;
+	width: 100%;
+	
+}
+.thumbnail {
+	
+	overflow:hidden;
+}
+.img-circle img:hover{
+	
+	transform: scale(1.1);
+}
