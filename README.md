@@ -1,2 +1,2 @@
-# TourKarimnagar.github.io
-Tour Karimnagar is one stop website about Karimnagar
+# TourHyderabad.github.io
+Tour Hyderabad is one stop website about Hyderabad.
